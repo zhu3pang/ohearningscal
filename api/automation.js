@@ -1,6 +1,7 @@
 import { getdata, getlist } from './getlist.js';
 import { processData } from './processdata.js';
 import { generateEarningsICSCalendar } from './genics.js';
+import { generateMarketHolidaysCalendar } from './marketHolidays.js';
 import dotenv from 'dotenv';
 dotenv.config();
 
@@ -30,6 +31,11 @@ async function genAllIcs() {
     if (shouldGenAll) {
         generateEarningsICSCalendar(today, null, 'all');
     }
+
+    // 生成美股休市日历
+    const currentYear = new Date().getFullYear();
+    const nextYear = currentYear + 1;
+    generateMarketHolidaysCalendar(currentYear, nextYear);
 
     console.log('All done.');
 }
