@@ -20,7 +20,7 @@
       "name": "Bank Of Montreal",
       "marketCap": "$89,636,413,245",
       "fiscalQuarterEnding": "Oct/2025",
-      "epsForecast": "$2.09",
+      "epsForecast": "$2.12",
       "noOfEsts": "3"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Canadian Imperial Bank of Commerce",
       "marketCap": "$79,656,691,528",
       "fiscalQuarterEnding": "Oct/2025",
-      "epsForecast": "$1.44",
+      "epsForecast": "$1.46",
       "noOfEsts": "3"
     },
     {
@@ -167,6 +167,17 @@
       "noOfEsts": "6"
     },
     {
+      "lastYearRptDt": "12/04/2024",
+      "lastYearEPS": "$0.42",
+      "time": "time-pre-market",
+      "symbol": "HRL",
+      "name": "Hormel Foods Corporation",
+      "marketCap": "$12,380,464,727",
+      "fiscalQuarterEnding": "Oct/2025",
+      "epsForecast": "$0.29",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "12/03/2024",
       "lastYearEPS": "$0.83",
       "time": "time-pre-market",
@@ -289,17 +300,6 @@
     },
     {
       "lastYearRptDt": "12/05/2024",
-      "lastYearEPS": "($0.05)",
-      "time": "time-not-supplied",
-      "symbol": "WOOF",
-      "name": "Petco Health and Wellness Company, Inc.",
-      "marketCap": "$985,950,087",
-      "fiscalQuarterEnding": "Oct/2025",
-      "epsForecast": "($0.02)",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "12/05/2024",
       "lastYearEPS": "$12.79",
       "time": "time-not-supplied",
       "symbol": "HOV",
@@ -323,7 +323,7 @@
     {
       "lastYearRptDt": "12/05/2024",
       "lastYearEPS": "($0.42)",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "DOMO",
       "name": "Domo, Inc.",
       "marketCap": "$545,076,808",
@@ -453,17 +453,6 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.06",
-      "time": "time-not-supplied",
-      "symbol": "TOUR",
-      "name": "Tuniu Corporation",
-      "marketCap": "$93,401,240",
-      "fiscalQuarterEnding": "Sep/2025",
-      "epsForecast": "",
-      "noOfEsts": "7"
-    },
-    {
       "lastYearRptDt": "12/05/2024",
       "lastYearEPS": "$0.34",
       "time": "time-not-supplied",
@@ -482,6 +471,17 @@
       "name": "Maxeon Solar Technologies, Ltd.",
       "marketCap": "$59,476,486",
       "fiscalQuarterEnding": "Sep/2025",
+      "epsForecast": "",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "DXLG",
+      "name": "Destination XL Group, Inc.",
+      "marketCap": "$50,601,669",
+      "fiscalQuarterEnding": "Oct/2025",
       "epsForecast": "",
       "noOfEsts": "7"
     }
