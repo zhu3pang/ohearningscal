@@ -137,4 +137,4 @@ function saveData(date, data) {
     return;
 };
 
-export { fetchEarningsCalendarData };
+export { fetchEarningsCalendarData, fetchEarningsData };
