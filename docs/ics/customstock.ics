@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:JlJcNady06-cJD4_cqM-U
+UID:URiw1Hlw_DwHdAzVtgtK9
 SUMMARY:拼多多 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251118
 DESCRIPTION:财务季度：Sep/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.99，当前市值: $1
 	69\,761\,323\,926。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X9Jga-4oOYLoMDZjcpuE_
+UID:Xy_owMsSI_ujVo8wmLqae
 SUMMARY:英伟达 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Oct/2025。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.18，当前市值: $4
 	\,532\,436\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TcCVQIL8AB2jTz9kr0sg2
+UID:41XPTa1I3iqz6_yzKnmkC
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:财务季度：Oct/2025。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.61，当前市值: $853
 	\,972\,083\,677。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PtxvwiE7rkZwq7OgeSt9o
+UID:JjXYGjS05gtzFornRxiVa
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251125
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 互联网。\n预计每股收益: $0.49，当前市值: $
 	362\,579\,968\,643。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n在
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dILPO6JRfjHMdTmlTCv_p
+UID:HPSYZwuCm0lgl5ALFiPof
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251210
 DESCRIPTION:财务季度：Nov/2025。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.29，当前市值: $
 	633\,730\,639\,140。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1L0qESHO-r903DegcEvm2
+UID:DdL8NUIC5BwEQzu5EajZo
 SUMMARY:博通 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20251211
 DESCRIPTION:财务季度：Oct/2025。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.49，当前市值: $1\
 	,919\,027\,473\,990。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MtkSZE3kzfqFzTsVrvW91
+UID:XELd4hAaTNlEKkpIgsJ3v
 SUMMARY:台积电 发布财报
-DTSTAMP:20251218T045410Z
+DTSTAMP:20251218T165415Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
-	,487\,864\,636\,912。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,436\,465\,959\,630。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
