@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Q8Jk6ccd9bUstDH8hc3f1
+UID:L2YTBsc9_nNH-3iJW6c4_
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20251210
 DESCRIPTION:财务季度：Nov/2025。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.29，当前市值: $
 	633\,730\,639\,140。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UVooGYipaw3BpTChFfoLx
+UID:6v5S4hAeqkrMGrHBt1Og3
 SUMMARY:博通 发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20251211
 DESCRIPTION:财务季度：Oct/2025。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.49，当前市值: $1\
 	,919\,027\,473\,990。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bfWF6p6mvs_UTuWf3Ahdz
+UID:sr7REcfpo0vlbrWlCOAqV
 SUMMARY:台积电 发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
 	,549\,740\,138\,422。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gAcYOJGSmI2QWV1Jyp-Gc
+UID:QdTa0567qqiz3nWpQqhwE
 SUMMARY:奈飞 盘后发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：奈飞，行业: 媒体。\n预计每股收益: $0.55，当前市值: $396
 	\,782\,957\,558。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途查
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:keUqybW0Y_n2rIW1jfzLj
+UID:QA3SDYhYZBHuT3X6q-uuT
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20260121
 DESCRIPTION:财务季度：Dec/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.53，当前市值: $500\
 	,603\,336\,294。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UA06QHLMv6Uyv4l04sro2
+UID:Kan_OPeAfIc7Ofs5Mfh5m
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20251228T164756Z
+DTSTAMP:20251229T050315Z
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:财务季度：Dec/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.87，当前市值: $337\
 	,634\,630\,495。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
