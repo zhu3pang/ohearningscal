@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GDFGG0j9oiBbyxj0xMpp_
+UID:_6Dkozb2APe7vUfpETTDu
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20251210
 DESCRIPTION:财务季度：Nov/2025。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.29，当前市值: $
 	633\,730\,639\,140。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:paCnpGTa9EA82c1CVuFP9
+UID:B7wmghpSwSXfVsR6-ZJ4M
 SUMMARY:博通 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20251211
 DESCRIPTION:财务季度：Oct/2025。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.49，当前市值: $1\
 	,919\,027\,473\,990。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ylIIVLemLf1LbwYGQxp91
+UID:QEbceuX8f_8pqZR0SZoT6
 SUMMARY:台积电 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
-	,657\,672\,174\,167。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,671\,364\,657\,318。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fuMwQjN6CZcfgWtUkcZck
+UID:SRSAhbiiY7nmZ8mtpszsB
 SUMMARY:奈飞 盘后发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260120
-DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：奈飞，行业: 媒体。\n预计每股收益: $0.55，当前市值: $385
-	\,554\,050\,707。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途查
+DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：奈飞，行业: 媒体。\n预计每股收益: $0.55，当前市值: $387
+	\,545\,592\,676。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途查
 	看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1dLViu5Ehf8w9rfBLeiQp
+UID:puz_Xax4VYaTwdcNcbSLn
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260121
-DESCRIPTION:财务季度：Dec/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.53，当前市值: $499\
-	,567\,339\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
+DESCRIPTION:财务季度：Dec/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.53，当前市值: $492\
+	,243\,082\,290。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
 	https://www.futunn.com/hk/stock/JNJ-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RmF_XTP_FrLBrMV0TpB5j
+UID:hhTtnki2SqgLr8L9aUzUG
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260122
-DESCRIPTION:财务季度：Dec/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.87，当前市值: $331\
-	,325\,449\,913。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
+DESCRIPTION:财务季度：Dec/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.87，当前市值: $328\
+	,007\,288\,273。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/PG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,28 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4mEsqHMqfAI3gLQwo5q3W
+UID:UpEAAxgfj78L9IoS28puo
+SUMMARY:特斯拉 盘后发布财报
+DTSTAMP:20260106T165433Z
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.34，当前市值: $1\
+	,502\,172\,743\,159。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
+	在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:BY9yuKF7WDBaB-eQBBELl
 SUMMARY:苹果 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260129
-DESCRIPTION:财务季度：Dec/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $2.65，当前市值: $4
-	\,004\,539\,426\,530。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+DESCRIPTION:财务季度：Dec/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $2.65，当前市值: $3
+	\,949\,128\,102\,780。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7qwqIeuR7UJY3oFfM5Bh9
+UID:oBBEjlRx4nhFZglv7uBR0
 SUMMARY:谷歌 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：谷歌，行业: 互联网。\n预计每股收益: $2.59，当前市值: $3\
-	,802\,915\,050\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
+	,819\,688\,180\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
 	在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0NQPEHU-ATcQt5J7yizVV
+UID:7lmLlyxOdKgsGJH7PnDd5
 SUMMARY:AMD 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.10，当前市值: $36
-	3\,818\,442\,944。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
+DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.10，当前市值: $35
+	9\,927\,423\,663。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
 	看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3wGbdTM22D5y_JHgmEmz1
+UID:vQcUg-ZpXgotr-F_1T_Q1
 SUMMARY:百事可乐 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：PEP，公司：百事可乐，行业: 饮料。\n预计每股收益: $2.24，当前市值: $19
-	4\,476\,785\,552。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途查
+	1\,318\,229\,870。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途查
 	看：https://www.futunn.com/hk/stock/PEP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XuHxHbc8aJV3t_bvsdU9Z
-SUMMARY:辉瑞 发布财报
-DTSTAMP:20260106T045707Z
+UID:lezuiE3poBQRXG7pq9Yoy
+SUMMARY:辉瑞 盘前发布财报
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：PFE，公司：辉瑞，行业: 制药。\n预计每股收益: $0.56，当前市值: $143\
-	,166\,116\,159。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PFE \n在富途查看：
+	,109\,259\,084。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PFE \n在富途查看：
 	https://www.futunn.com/hk/stock/PFE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CWVdit83FLazE-wTcupRV
+UID:7vXc_mrw5_co6AhJuk8mc
 SUMMARY:微软 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：MSFT，公司：微软，行业: 互联网。\n预计每股收益: $3.86，当前市值: $3\
-	,515\,068\,688\,156。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n
+	,514\,399\,774\,167。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n
 	在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -198,29 +214,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:juoSKlRL54TFiT0ilLV1k
+UID:kSM4dGcuyDVtyr8BujhcB
 SUMMARY:Meta 发布财报
-DTSTAMP:20260106T045707Z
+DTSTAMP:20260106T165433Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：META，公司：Meta，行业: 互联网。\n预计每股收益: $8.29，当前市值: $
-	1\,639\,376\,354\,365。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META 
+	1\,660\,498\,375\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META 
 	\n在富途查看：https://www.futunn.com/hk/stock/META-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:uCGFVXJO-ggdDskUenCeS
-SUMMARY:特斯拉 发布财报
-DTSTAMP:20260106T045707Z
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.34，当前市值: $1\
-	,456\,941\,602\,488。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
-	在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
