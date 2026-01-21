@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:roPRRBCKIO6DBKd6BOdwG
+UID:k-iEGnzfENWaydOJIehXp
 SUMMARY:台积电 发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.82，当前市值: $1\
 	,771\,931\,796\,823。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M7PX_ZPdrC_WFCQoh9qkk
+UID:kjvnMW5TtMC0GVHil9P31
 SUMMARY:奈飞 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：奈飞，行业: 媒体。\n预计每股收益: $0.55，当前市值: $372
 	\,884\,453\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX \n在富途查
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CK2tvDSeoU_a212BywfTh
+UID:Q9SuohAXA4rSuVi8aQ4fQ
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260121
 DESCRIPTION:财务季度：Dec/2025。\n代码：JNJ，公司：强生，行业: 制药。\n预计每股收益: $2.49，当前市值: $526\
 	,816\,467\,003。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富途查看：
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_Fo_ae4Umi96WnTZbFUxO
+UID:6NqV4DajaeAHXmd5BghhE
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260122
 DESCRIPTION:财务季度：Dec/2025。\n代码：PG，公司：宝洁，行业: 消费品。\n预计每股收益: $1.87，当前市值: $337\
 	,728\,099\,837。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ac7dX-rFuVvsapsTzr76-
+UID:wAx0lUo6JLezfaR67vyX3
 SUMMARY:微软 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：MSFT，公司：微软，行业: 互联网。\n预计每股收益: $3.86，当前市值: $3\
 	,417\,853\,188\,428。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YBuSH89k6sN3XBti2FE8X
+UID:1HlDyoI-wiN-IciUey-M0
 SUMMARY:Meta 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：META，公司：Meta，行业: 互联网。\n预计每股收益: $8.29，当前市值: $
 	1\,563\,357\,242\,039。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META 
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0bHSmba9rABbrhlAbyRfi
+UID:v3fjsGeHQFqdsUuWtgL7A
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260128
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.32，当前市值: $1\
 	,455\,045\,885\,563。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:raVnSdWsegUPpvZVNXe74
+UID:1h5iW79YEvpi8OJxGXWbC
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260129
 DESCRIPTION:财务季度：Dec/2025。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $2.65，当前市值: $3
 	\,755\,761\,030\,780。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:n5-H3BDDSs5r2M8bAlpV4
+UID:27nf3iwkyMMpEkVe1IH3A
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.10，当前市值: $37
-	1\,063\,227\,797。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
+DESCRIPTION:财务季度：Dec/2025。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.11，当前市值: $37
+	7\,428\,870\,218。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
 	看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:j3poBw76MDg4GHdLvrvOt
+UID:B_cNaG3AFV5LpbNR210He
 SUMMARY:百事可乐 发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260203
 DESCRIPTION:财务季度：Dec/2025。\n代码：PEP，公司：百事可乐，行业: 饮料。\n预计每股收益: $2.24，当前市值: $20
-	0\,411\,041\,682。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途查
+	0\,069\,206\,651。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途查
 	看：https://www.futunn.com/hk/stock/PEP-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hFoTAC6Eun9hMjaMukci5
+UID:V-YG-_akvsPeJfP9MVsjd
 SUMMARY:辉瑞 盘前发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260203
-DESCRIPTION:财务季度：Dec/2025。\n代码：PFE，公司：辉瑞，行业: 制药。\n预计每股收益: $0.58，当前市值: $147\
-	,202\,968\,521。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PFE \n在富途查看：
+DESCRIPTION:财务季度：Dec/2025。\n代码：PFE，公司：辉瑞，行业: 制药。\n预计每股收益: $0.58，当前市值: $145\
+	,838\,398\,709。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PFE \n在富途查看：
 	https://www.futunn.com/hk/stock/PFE-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g_aLy8vIreofAHIjGcXaI
+UID:votCxKtd7FP2F-HYLVCQt
 SUMMARY:谷歌 盘后发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260204
 DESCRIPTION:财务季度：Dec/2025。\n代码：GOOG，公司：谷歌，行业: 互联网。\n预计每股收益: $2.59，当前市值: $3\
 	,982\,110\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Oz8lHuYGOabYPAo9ZipxL
+UID:5rlyhP9k4MakkbrpP_G8u
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260205
 DESCRIPTION:财务季度：Dec/2025。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.97，当前市值: $
 	2\,556\,244\,452\,550。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -214,9 +214,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gMphPE948CxKAsRod12GG
+UID:-EK2FrRp3WlBqjkouyIBX
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260209
 DESCRIPTION:财务季度：Dec/2025。\n代码：MCD，公司：麦当劳，行业: 银行。\n预计每股收益: $3，当前市值: $218\,9
 	37\,611\,821。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看：ht
@@ -230,9 +230,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RwwGCSKeQerKOR-fvSPuh
+UID:qVQjsNQ5yqcYEPlnQTu_Y
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260210
 DESCRIPTION:财务季度：Dec/2025。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.56，当前市值: $303
 	\,005\,327\,042。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -246,13 +246,45 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uTTkYHobGzuZLA0uB0YPO
+UID:Kk48SE7Hl7zN0mp8viOaU
 SUMMARY:汇丰银行 发布财报
-DTSTAMP:20260120T165911Z
+DTSTAMP:20260121T050126Z
 DTSTART;VALUE=DATE:20260218
 DESCRIPTION:财务季度：Dec/2025。\n代码：HSBC，公司：汇丰银行，行业: 银行。\n预计每股收益: $1.60，当前市值: $2
 	85\,505\,481\,740。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HSBC \n在富
 	途查看：https://www.futunn.com/hk/stock/HSBC-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:D90Ss20FgH8gS2_BHlOOW
+SUMMARY:沃尔玛 盘前发布财报
+DTSTAMP:20260121T050126Z
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:财务季度：Jan/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.73，当前市值: $954
+	\,028\,985\,591。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
+	：https://www.futunn.com/hk/stock/WMT-US 
+STATUS:CONFIRMED
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT2H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:i7X3-e65_-s3IaPNZyqO2
+SUMMARY:阿里巴巴 发布财报
+DTSTAMP:20260121T050126Z
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 互联网。\n预计每股收益: $1.73，当前市值: $
+	381\,954\,823\,346。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n在
+	富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
