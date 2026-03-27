@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:IJpGZt6d466EjRnX9aKL3
+UID:aRbSlUlQTsABfOrJ7dNcW
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260327T055713Z
+DTSTAMP:20260327T172719Z
 DTSTART;VALUE=DATE:20260225
 DESCRIPTION:财务季度：Jan/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.45，当前市值: $4
 	\,752\,108\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bdAL3eD6TXQVTdhCsAcjI
+UID:z1_-fHRGVH8b5hZlqX_0z
 SUMMARY:博通 发布财报
-DTSTAMP:20260327T055713Z
+DTSTAMP:20260327T172719Z
 DTSTART;VALUE=DATE:20260304
 DESCRIPTION:财务季度：Jan/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $1.67，当前市值: $1\
 	,503\,695\,897\,388。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HWrZscx7NM5NTaV6sJYXj
+UID:W-BfpeE1XA3OVJfZD4Gcs
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260327T055713Z
+DTSTAMP:20260327T172719Z
 DTSTART;VALUE=DATE:20260310
 DESCRIPTION:财务季度：Feb/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.34，当前市值: $
 	429\,389\,195\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MzQsOFg0Y50kyCFC0DVZD
+UID:ZE4o16QZh_sn3Efz3Hnmx
 SUMMARY:台积电 发布财报
-DTSTAMP:20260327T055713Z
+DTSTAMP:20260327T172719Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.27，当前市值: $1\
-	,803\,621\,596\,842。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,691\,384\,727\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g1-UT1Z_3sVADJ-yegaWN
+UID:-rRBoTKcctEusYRvurkfR
 SUMMARY:谷歌 发布财报
-DTSTAMP:20260327T055713Z
+DTSTAMP:20260327T172719Z
 DTSTART;VALUE=DATE:20260423
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：谷歌，行业: 互联网。\n预计每股收益: $2.76，当前市值: $3\
-	,519\,380\,210\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
+	,398\,289\,240\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
 	在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
