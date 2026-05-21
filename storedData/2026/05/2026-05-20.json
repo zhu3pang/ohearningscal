@@ -13,9 +13,9 @@
       "noOfEsts": "13"
     },
     {
-      "eps": "$1.85",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$3.09",
+      "surprise": "6.92",
+      "time": "time-not-supplied",
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
       "marketCap": "$202,267,864,287",
@@ -24,9 +24,9 @@
       "noOfEsts": "8"
     },
     {
-      "eps": "$0.92",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.19",
+      "surprise": "17.82",
+      "time": "time-not-supplied",
       "symbol": "TJX",
       "name": "TJX Companies, Inc. (The)",
       "marketCap": "$166,624,093,149",
@@ -35,9 +35,9 @@
       "noOfEsts": "6"
     },
     {
-      "eps": "$2.92",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$3.03",
+      "surprise": "2.36",
+      "time": "time-not-supplied",
       "symbol": "LOW",
       "name": "Lowe's Companies, Inc.",
       "marketCap": "$122,301,050,991",
@@ -57,9 +57,9 @@
       "noOfEsts": "7"
     },
     {
-      "eps": "$1.30",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.71",
+      "surprise": "21.28",
+      "time": "time-not-supplied",
       "symbol": "TGT",
       "name": "Target Corporation",
       "marketCap": "$57,789,385,668",
@@ -79,9 +79,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "($0.31)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.46)",
+      "surprise": "-21.05",
+      "time": "time-not-supplied",
       "symbol": "ROIV",
       "name": "Roivant Sciences Ltd.",
       "marketCap": "$20,189,929,075",
@@ -112,9 +112,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$1.04",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.47",
+      "surprise": "31.25",
+      "time": "time-not-supplied",
       "symbol": "HAS",
       "name": "Hasbro, Inc.",
       "marketCap": "$13,750,065,449",
@@ -134,9 +134,9 @@
       "noOfEsts": "3"
     },
     {
-      "eps": "$0.48",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.53",
+      "surprise": "44.34",
+      "time": "time-not-supplied",
       "symbol": "GDS",
       "name": "GDS Holdings Limited",
       "marketCap": "$8,097,259,341",
@@ -156,9 +156,9 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.13)",
+      "eps": "$0",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
       "symbol": "VFC",
       "name": "V.F. Corporation",
       "marketCap": "$6,549,748,362",
@@ -167,9 +167,9 @@
       "noOfEsts": "7"
     },
     {
-      "eps": "$0.16",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.21",
+      "surprise": "10.53",
+      "time": "time-not-supplied",
       "symbol": "BZ",
       "name": "KANZHUN LIMITED",
       "marketCap": "$6,530,188,469",
@@ -200,26 +200,48 @@
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.45)",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "$0.49",
+      "surprise": "58.06",
+      "time": "time-not-supplied",
+      "symbol": "GLNG",
+      "name": "Golar LNG Limited",
+      "marketCap": "$5,653,442,764",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.31",
+      "noOfEsts": "2"
+    },
+    {
+      "eps": "($0.34)",
+      "surprise": "43.33",
+      "time": "time-not-supplied",
       "symbol": "BLTE",
       "name": "Belite Bio, Inc",
       "marketCap": "$5,495,792,412",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.59)",
+      "epsForecast": "($0.60)",
       "noOfEsts": "4"
     },
     {
-      "eps": "($0.64)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.73)",
+      "surprise": "-21.67",
+      "time": "time-not-supplied",
       "symbol": "IMVT",
       "name": "Immunovant, Inc. ",
       "marketCap": "$5,350,861,012",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.60)",
       "noOfEsts": "9"
+    },
+    {
+      "eps": "$0.03",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "RLX",
+      "name": "RLX Technology Inc.",
+      "marketCap": "$3,252,774,645",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "$0.61",
@@ -233,15 +255,26 @@
       "noOfEsts": "10"
     },
     {
-      "eps": "$2.45",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.72)",
+      "surprise": "-227.27",
+      "time": "time-not-supplied",
       "symbol": "ZIM",
       "name": "ZIM Integrated Shipping Services Ltd.",
       "marketCap": "$3,077,903,949",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.22)",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.61",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CRVL",
+      "name": "CorVel Corp.",
+      "marketCap": "$3,008,786,344",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "N/A",
@@ -266,6 +299,17 @@
       "noOfEsts": "1"
     },
     {
+      "eps": "($0.09)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CDLR",
+      "name": "Cadeler A/S",
+      "marketCap": "$2,304,913,933",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "eps": "$0.05",
       "surprise": "N/A",
       "time": "time-not-supplied",
@@ -288,9 +332,20 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.07",
+      "eps": "$1.89",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
+      "symbol": "LPG",
+      "name": "Dorian LPG Ltd.",
+      "marketCap": "$1,808,930,439",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.17",
+      "surprise": "54.55",
+      "time": "time-not-supplied",
       "symbol": "ARCO",
       "name": "Arcos Dorados Holdings Inc.",
       "marketCap": "$1,700,050,870",
@@ -321,9 +376,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.20",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.10",
+      "surprise": "-61.54",
+      "time": "time-not-supplied",
       "symbol": "HDL",
       "name": "SUPER HI INTERNATIONAL HOLDING LTD.",
       "marketCap": "$868,149,165",
@@ -343,9 +398,20 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "$0.34",
+      "eps": "$1.82",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
+      "symbol": "PNRG",
+      "name": "PrimeEnergy Resources Corporation",
+      "marketCap": "$428,608,200",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.26",
+      "surprise": "36.84",
+      "time": "time-not-supplied",
       "symbol": "TATT",
       "name": "TAT Technologies Ltd.",
       "marketCap": "$424,418,749",
@@ -354,9 +420,9 @@
       "noOfEsts": "2"
     },
     {
-      "eps": "($0.06)",
+      "eps": "($0.09)",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
       "symbol": "PERI",
       "name": "Perion Network Ltd",
       "marketCap": "$419,654,504",
@@ -387,9 +453,20 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "($0.15)",
+      "eps": "($0.10)",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
+      "symbol": "FJET",
+      "name": "Starfighters Space, Inc.",
+      "marketCap": "$240,748,147",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "BZUN",
       "name": "Baozun Inc.",
       "marketCap": "$148,808,676",
@@ -420,9 +497,9 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "($2.07)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.12",
+      "surprise": "-50",
+      "time": "time-not-supplied",
       "symbol": "EDRY",
       "name": "EuroDry Ltd.",
       "marketCap": "$59,574,174",
@@ -486,6 +563,17 @@
       "noOfEsts": "1"
     },
     {
+      "eps": "($0.41)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "DUKR",
+      "name": "DUKE Robotics Corp.",
+      "marketCap": "$16,410,381",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "eps": "$0",
       "surprise": "N/A",
       "time": "time-after-hours",
@@ -506,6 +594,39 @@
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.60)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "EVGN",
+      "name": "Evogene Ltd.",
+      "marketCap": "$7,360,960",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($2.77)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "UGRO",
+      "name": "urban-gro, Inc.",
+      "marketCap": "$6,867,548",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.21)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CAPS",
+      "name": "Capstone Holding Corp.",
+      "marketCap": "$4,407,282",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($99.99)",
