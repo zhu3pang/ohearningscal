@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fMlx7Lv3xncq5moYyVALX
+UID:6zfkle-MmEsalMicMr_1L
 SUMMARY:AMD 发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.06，当前市值: $57
 	9\,194\,154\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富途查
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RkrBucgUiiZuT-ZbSMlBg
+UID:gKPF-3w3-FBmQdLqo6VQx
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260507
 DESCRIPTION:财务季度：Mar/2026。\n代码：MCD，公司：麦当劳，行业: 银行。\n预计每股收益: $2.74，当前市值: $201
 	\,661\,798\,915。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JbOiUOtW4TNRs7w2B7DWh
+UID:QVMpldg3Z70oeLqk7xCCC
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.70，当前市值: $5
 	\,363\,501\,604\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4rEy8HcOywjAMvkghsiyp
+UID:yboOdHYykErB1Sdgrj-wh
 SUMMARY:博通 盘后发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.02，当前市值: $2\
-	,019\,714\,753\,931。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
+	,115\,307\,704\,566。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
 	在富途查看：https://www.futunn.com/hk/stock/AVGO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PZ321lniaRCBvvRWd9QhV
+UID:xhGQwaHPYEmidi_RH9tSQ
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:财务季度：May/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.58，当前市值: $
-	585\,850\,570\,200。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
+	649\,353\,665\,880。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
 	富途查看：https://www.futunn.com/hk/stock/ORCL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dHodeeRDMcK5tODBfY1FZ
+UID:uIxQZ3MX7RnUFqNkhlq1w
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260601T094056Z
+DTSTAMP:20260601T204340Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $19.29，当前市值: $1
-	\,041\,484\,950\,780。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+	\,095\,029\,763\,521。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
