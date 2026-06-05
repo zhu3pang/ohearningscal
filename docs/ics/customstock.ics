@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:dbl8zzOobrP9QWe96GaTi
+UID:pdTlRIbSXaZm0l0WvUDVJ
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20260605T083029Z
+DTSTAMP:20260605T182226Z
 DTSTART;VALUE=DATE:20260507
 DESCRIPTION:财务季度：Mar/2026。\n代码：MCD，公司：麦当劳，行业: 银行。\n预计每股收益: $2.74，当前市值: $201
 	\,661\,798\,915。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hyN6NiWjy9oT4wPXccx4C
+UID:szkUOaeI3JI_3Gn-aimO-
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20260605T083029Z
+DTSTAMP:20260605T182226Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.70，当前市值: $5
 	\,363\,501\,604\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SEz2Mp6D36ywQIHgEYSDK
+UID:z8IEhAZ5zFmtdL0F8mr01
 SUMMARY:博通 发布财报
-DTSTAMP:20260605T083029Z
+DTSTAMP:20260605T182226Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.02，当前市值: $2\
 	,268\,995\,033\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_F8aR01qeVvDEiWuUuYqS
+UID:kcombMbTSzwxR1prdeWmy
 SUMMARY:甲骨文 盘后发布财报
-DTSTAMP:20260605T083029Z
+DTSTAMP:20260605T182226Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:财务季度：May/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.58，当前市值: $
-	662\,439\,675\,180。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
+	679\,724\,711\,640。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
 	富途查看：https://www.futunn.com/hk/stock/ORCL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F2HPtjCeSnkEprddBN5mW
+UID:qB8j3sy9sELivY-cmc-xU
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260605T083029Z
+DTSTAMP:20260605T182226Z
 DTSTART;VALUE=DATE:20260624
-DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $19.29，当前市值: $1
-	\,217\,467\,849\,438。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $19.40，当前市值: $1
+	\,123\,223\,114\,796。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
