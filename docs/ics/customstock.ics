@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:u1K2A5sJ2xBKqyrvUpOAe
+UID:GB-qDyYAt_eBj7iF8gvdo
 SUMMARY:博通 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.02，当前市值: $2\
 	,268\,995\,033\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ohWEtB2vJuGCIgrUKfYZ5
+UID:iACySS_s4ya-uJZTaNFOu
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:财务季度：May/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.58，当前市值: $
 	578\,833\,017\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4JQMqx_krSEUbFGUwxtsh
+UID:kQN-DuApqiqzCvF9cDy_s
 SUMMARY:美光科技 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $20.98，当前市值: $1
 	\,182\,440\,429\,814。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WXVtSJIu1VMJSJ8MYkQyC
+UID:vHRNC9Afatr5wM1-3OA6-
 SUMMARY:台积电 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.77，当前市值: $2\
-	,286\,366\,956\,830。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,256\,077\,768\,191。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_-vr35NgQ8POYN76Xuvah
+UID:Euum9nrs2xojdJm3brwy5
 SUMMARY:谷歌 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：谷歌，行业: 互联网。\n预计每股收益: $2.86，当前市值: $4\
-	,183\,533\,640\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
+	,164\,390\,360\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
 	在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rhIklxKrEf4IyM_mpimCM
+UID:NLgq-IIpoIVmEol5hlML9
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.27，当前市值: $1\
-	,410\,386\,985\,277。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
+	,408\,847\,138\,490。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
 	在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ijd9DxtngaJnuBfUo1qI3
+UID:8UAOynVhJupsEFIdSi_8i
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20260626T080807Z
+DTSTAMP:20260626T181011Z
 DTSTART;VALUE=DATE:20260723
-DESCRIPTION:财务季度：Jun/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.07，当前市值: $79\
-	,300\,330\,202。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
+DESCRIPTION:财务季度：Jun/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.07，当前市值: $80\
+	,276\,510\,950。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
 	https://www.futunn.com/hk/stock/NOK-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
