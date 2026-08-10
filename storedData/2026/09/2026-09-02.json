@@ -2,12 +2,23 @@
   "date": "2026-09-02",
   "data": [
     {
+      "lastYearRptDt": "9/04/2025",
+      "lastYearEPS": "$1.26",
+      "time": "time-after-hours",
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "marketCap": "$2,035,102,505,496",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$2.83",
+      "noOfEsts": "9"
+    },
+    {
       "lastYearRptDt": "8/27/2025",
       "lastYearEPS": "($0.80)",
       "time": "time-after-hours",
       "symbol": "SNOW",
       "name": "Snowflake Inc.",
-      "marketCap": "$110,218,800,000",
+      "marketCap": "$114,547,834,000",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "($0.51)",
       "noOfEsts": "11"
@@ -18,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "HPE",
       "name": "Hewlett Packard Enterprise Company",
-      "marketCap": "$69,427,990,606",
+      "marketCap": "$70,474,111,388",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.80",
       "noOfEsts": "5"
@@ -29,21 +40,10 @@
       "time": "time-not-supplied",
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd",
-      "marketCap": "$42,970,102,036",
+      "marketCap": "$46,598,961,931",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.91",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "9/03/2025",
-      "lastYearEPS": "$0.77",
-      "time": "time-not-supplied",
-      "symbol": "DLTR",
-      "name": "Dollar Tree, Inc.",
-      "marketCap": "$24,921,200,572",
-      "fiscalQuarterEnding": "Jul/2026",
-      "epsForecast": "$1.11",
-      "noOfEsts": "10"
     },
     {
       "lastYearRptDt": "N/A",
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "BF.A",
       "name": "Brown Forman Corporation",
-      "marketCap": "$13,132,695,264",
+      "marketCap": "$13,334,595,541",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "BF.B",
       "name": "Brown Forman Corporation",
-      "marketCap": "$13,132,695,264",
+      "marketCap": "$13,334,595,541",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.38",
       "noOfEsts": "4"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "CPB",
       "name": "The Campbell's Company",
-      "marketCap": "$6,727,532,842",
+      "marketCap": "$6,873,653,901",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.40",
       "noOfEsts": "9"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "M",
       "name": "Macy's Inc",
-      "marketCap": "$6,610,143,784",
+      "marketCap": "$6,681,164,032",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.35",
       "noOfEsts": "4"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "GTLB",
       "name": "GitLab Inc.",
-      "marketCap": "$6,026,352,000",
+      "marketCap": "$6,582,033,000",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "6"
@@ -106,7 +106,7 @@
       "time": "time-after-hours",
       "symbol": "NTSK",
       "name": "Netskope, Inc.",
-      "marketCap": "$5,444,890,789",
+      "marketCap": "$6,006,344,661",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "($0.26)",
       "noOfEsts": "2"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "AEO",
       "name": "American Eagle Outfitters, Inc.",
-      "marketCap": "$2,969,399,461",
+      "marketCap": "$3,011,292,794",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "6"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "CXM",
       "name": "Sprinklr, Inc.",
-      "marketCap": "$1,548,252,117",
+      "marketCap": "$1,606,809,307",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "3"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "AI",
       "name": "C3.ai, Inc.",
-      "marketCap": "$1,532,729,871",
+      "marketCap": "$1,588,691,611",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "($0.63)",
       "noOfEsts": "6"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "AVLN",
       "name": "Avalyn Pharma Inc.",
-      "marketCap": "$1,449,692,207",
+      "marketCap": "$1,503,778,582",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($1.03)",
       "noOfEsts": "2"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "NEWP",
       "name": "New Pacific Metals Corp.",
-      "marketCap": "$1,093,720,065",
+      "marketCap": "$1,172,520,340",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0",
       "noOfEsts": "2"
@@ -172,10 +172,21 @@
       "time": "time-not-supplied",
       "symbol": "PD",
       "name": "PagerDuty, Inc.",
-      "marketCap": "$856,060,472",
+      "marketCap": "$901,562,785",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.12",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/04/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-after-hours",
+      "symbol": "PHR",
+      "name": "Phreesia, Inc.",
+      "marketCap": "$773,266,731",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "$0.10",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -183,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "LND",
       "name": "Brasilagro Cia Brasileira De Propriedades Agricolas ",
-      "marketCap": "$368,633,564",
+      "marketCap": "$369,660,398",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "JILL",
       "name": "J. Jill, Inc.",
-      "marketCap": "$280,189,517",
+      "marketCap": "$282,880,772",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.58",
       "noOfEsts": "2"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "CHPT",
       "name": "ChargePoint Holdings, Inc.",
-      "marketCap": "$152,278,070",
+      "marketCap": "$161,083,265",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "($1.58)",
       "noOfEsts": "2"
@@ -216,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "TLYS",
       "name": "Tilly's, Inc.",
-      "marketCap": "$125,612,290",
+      "marketCap": "$127,746,480",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "$0.17",
       "noOfEsts": "2"
@@ -227,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "COE",
       "name": "51Talk Online Education Group",
-      "marketCap": "$115,220,302",
+      "marketCap": "$117,142,643",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -238,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "RGS",
       "name": "Regis Corporation",
-      "marketCap": "$71,939,819",
+      "marketCap": "$70,253,143",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -249,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "YQ",
       "name": "17 Education & Technology Group Inc.",
-      "marketCap": "$21,819,933",
+      "marketCap": "$26,033,025",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "2"
