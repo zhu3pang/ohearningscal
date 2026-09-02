@@ -2,8 +2,8 @@
   "date": "2026-09-01",
   "data": [
     {
-      "lastYearRptDt": "8/18/2025",
-      "lastYearEPS": "$0.42",
+      "eps": "$0.42",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PANW",
       "name": "Palo Alto Networks, Inc.",
@@ -13,8 +13,8 @@
       "noOfEsts": "14"
     },
     {
-      "lastYearRptDt": "8/28/2025",
-      "lastYearEPS": "$2.10",
+      "eps": "$2.10",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "DELL",
       "name": "Dell Technologies Inc.",
@@ -24,8 +24,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "8/19/2025",
-      "lastYearEPS": "$1.26",
+      "eps": "$1.26",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "MDT",
       "name": "Medtronic plc",
@@ -35,8 +35,8 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "9/03/2025",
-      "lastYearEPS": "$0.34",
+      "eps": "$0.34",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd",
@@ -46,8 +46,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "8/26/2025",
-      "lastYearEPS": "($0.38)",
+      "eps": "($0.38)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MDB",
       "name": "MongoDB, Inc.",
@@ -57,8 +57,8 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "9/02/2025",
-      "lastYearEPS": "($0.32)",
+      "eps": "($0.32)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "NIO",
       "name": "NIO Inc.",
@@ -68,8 +68,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "9/03/2025",
-      "lastYearEPS": "($0.03)",
+      "eps": "($0.03)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "GTLB",
       "name": "GitLab Inc.",
@@ -79,19 +79,19 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.74",
+      "eps": "$1.74",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "IRS",
       "name": "IRSA Inversiones Y Representaciones S.A.",
       "marketCap": "$1,212,952,450",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "RZLV",
       "name": "Rezolve AI PLC",
@@ -101,8 +101,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.06",
+      "eps": "$0.06",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CSHR",
       "name": "CoinShares PLC",
@@ -112,8 +112,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "9/08/2025",
-      "lastYearEPS": "$0.03",
+      "eps": "$0.03",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "YEXT",
       "name": "Yext, Inc.",
@@ -123,8 +123,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/19/2025",
-      "lastYearEPS": "($0.10)",
+      "eps": "($0.10)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AREC",
       "name": "American Resources Corporation",
@@ -134,8 +134,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "8/12/2025",
-      "lastYearEPS": "($0.14)",
+      "eps": "($0.14)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ZENA",
       "name": "ZenaTech, Inc.",
@@ -145,8 +145,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.24",
+      "eps": "$0.24",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ELME",
       "name": "Elme Communities",
@@ -156,8 +156,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/11/2025",
-      "lastYearEPS": "$0.01",
+      "eps": "$0.01",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "HMR",
       "name": "Heidmar Maritime Holdings Corp.",
@@ -167,8 +167,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "UPXI",
       "name": "Upexi, Inc.",
@@ -178,30 +178,30 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.42)",
+      "eps": "($0.42)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ZEPP",
       "name": "Zepp Health Corporation",
       "marketCap": "$70,685,208",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.35",
+      "eps": "$0.35",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ALPS",
       "name": "ALPS Group Inc",
       "marketCap": "$64,879,480",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "9/04/2025",
-      "lastYearEPS": "($0.12)",
+      "eps": "($0.12)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SPWH",
       "name": "Sportsman's Warehouse Holdings, Inc.",
@@ -211,8 +211,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.07",
+      "eps": "$0.07",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AAME",
       "name": "Atlantic American Corporation",
@@ -222,30 +222,30 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.21)",
+      "eps": "($0.21)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BRLS",
       "name": "Borealis Foods Inc.",
       "marketCap": "$25,326,700",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($9.10)",
+      "eps": "($9.10)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SEGG",
       "name": "Sports Entertainment Gaming Global Corporation ",
       "marketCap": "$8,996,184",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/12/2025",
-      "lastYearEPS": "($0.30)",
+      "eps": "($0.30)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BRTX",
       "name": "BioRestorative Therapies, Inc.",
@@ -255,8 +255,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($32.90)",
+      "eps": "($32.90)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SHPH",
       "name": "Shuttle Pharmaceuticals Holdings, Inc.",
@@ -266,19 +266,19 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$6",
+      "eps": "$6",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FLYE",
       "name": "Fly-E Group, Inc.",
       "marketCap": "$2,220,045",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GTEN",
       "name": "Gores Holdings X, Inc.",
