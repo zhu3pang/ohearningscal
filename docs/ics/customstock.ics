@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Gwj7irBLjwuKTGeVuAppW
+UID:I30ksli8yThNedapPejvy
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260905T083018Z
+DTSTAMP:20260905T183025Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $2.09，当前市值: $5
 	\,073\,772\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Jgp8Jul85R5eSx0Nj9hSX
+UID:0ijXd1u5X4Ow8kTgeshhC
 SUMMARY:博通 发布财报
-DTSTAMP:20260905T083018Z
+DTSTAMP:20260905T183025Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pB3s357JAsbBbCt1LKQf7
+UID:-yrai0DHTbklzgGBaK_nW
 SUMMARY:甲骨文 盘后发布财报
-DTSTAMP:20260905T083018Z
+DTSTAMP:20260905T183025Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.40，当前市值: $
 	443\,707\,752\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ggKYTCTscZOWDp1MFlLuT
+UID:n1zvsqV7Pi3kjb8V2GL3L
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260905T083018Z
+DTSTAMP:20260905T183025Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.17，当前市值: $1
 	\,082\,139\,340\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
