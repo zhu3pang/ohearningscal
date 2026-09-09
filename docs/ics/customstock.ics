@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:T_OCi9N6Na1g2oVxfzsSH
+UID:pWf-lpaZKiVpVDTNY4sns
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260909T090524Z
+DTSTAMP:20260909T192249Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $2.09，当前市值: $5
 	\,073\,772\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DbDsdm2xRabIHHl5uGqGr
+UID:sHXwbDzy1a-_u5xQsdQ_I
 SUMMARY:博通 发布财报
-DTSTAMP:20260909T090524Z
+DTSTAMP:20260909T192249Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BDZR8DEDK--TTE0ihLe6O
+UID:JWlwIAgA2YfRq3nJuL9IT
 SUMMARY:甲骨文 盘后发布财报
-DTSTAMP:20260909T090524Z
+DTSTAMP:20260909T192249Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.40，当前市值: $
-	457\,361\,195\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
+	468\,134\,134\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
 	富途查看：https://www.futunn.com/hk/stock/ORCL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V1NvplBCuBUx69H5p9VjB
+UID:puEzUYz5PqcfwAfc_MinL
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260909T090524Z
+DTSTAMP:20260909T192249Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.17，当前市值: $1
-	\,148\,129\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+	\,129\,686\,760\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
