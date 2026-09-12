@@ -2,9 +2,9 @@
   "date": "2026-09-11",
   "data": [
     {
-      "eps": "$1.04",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.09",
+      "surprise": "3.81",
+      "time": "time-not-supplied",
       "symbol": "KR",
       "name": "Kroger Company (The)",
       "marketCap": "$34,890,265,000",
@@ -35,9 +35,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "($0.31)",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.11",
+      "surprise": "650",
+      "time": "time-not-supplied",
       "symbol": "HOFT",
       "name": "Hooker Furnishings Corporation",
       "marketCap": "$134,968,832",
@@ -55,6 +55,17 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.20)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "RENT",
+      "name": "Rent the Runway, Inc.",
+      "marketCap": "$94,713,728",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.46)",
@@ -90,9 +101,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "($0.03)",
+      "surprise": "-50",
+      "time": "time-not-supplied",
       "symbol": "MNY",
       "name": "MoneyHero Limited",
       "marketCap": "$37,323,904",
@@ -101,7 +112,7 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "($0.21)",
+      "eps": "$0.35",
       "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "JVA",
@@ -109,7 +120,7 @@
       "marketCap": "$19,580,496",
       "fiscalQuarterEnding": "Jul/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($1.20)",
