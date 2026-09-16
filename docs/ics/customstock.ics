@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:zI7tUepO5y2DXZnGPROOS
+UID:sOZCEDYT3q7o_3g_vmQTA
 SUMMARY:英伟达 发布财报
-DTSTAMP:20260916T092603Z
+DTSTAMP:20260916T193916Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $2.09，当前市值: $5
 	\,073\,772\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Xhned9ikL25qAUcYQTGwT
+UID:zRLaDnjMO8peRlLi-timb
 SUMMARY:博通 发布财报
-DTSTAMP:20260916T092603Z
+DTSTAMP:20260916T193916Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:k8MlL74LLp_xCfbQyGHib
+UID:B4uA_uqggjKqBoutd_fJp
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260916T092603Z
+DTSTAMP:20260916T193916Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2hRykMY8dyBjfbI1p-K9v
+UID:2or9dLXlVVUcK99NxZeNu
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260916T092603Z
+DTSTAMP:20260916T193916Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.17，当前市值: $1
-	\,043\,593\,170\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+	\,047\,625\,070\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jUSAronW9ZzR7GCNWmo5I
+UID:NwPEYZHcVIKESs2wTuhRL
 SUMMARY:台积电 发布财报
-DTSTAMP:20260916T092603Z
+DTSTAMP:20260916T193916Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,168\,010\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,145\,916\,420\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
