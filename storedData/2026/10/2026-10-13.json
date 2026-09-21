@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "JPM",
       "name": "J P Morgan Chase & Co",
-      "marketCap": "$928,531,020,000",
+      "marketCap": "$929,487,980,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$5.84",
       "noOfEsts": "6"
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCap": "$651,202,790,000",
+      "marketCap": "$650,648,550,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.96",
       "noOfEsts": "6"
@@ -29,10 +29,10 @@
       "time": "time-pre-market",
       "symbol": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "marketCap": "$336,786,555,000",
+      "marketCap": "$338,303,484,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$4.07",
-      "noOfEsts": "9"
+      "epsForecast": "$4.12",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "10/14/2025",
@@ -40,9 +40,9 @@
       "time": "time-pre-market",
       "symbol": "GS",
       "name": "The Goldman Sachs Group, Inc.",
-      "marketCap": "$277,040,857,000",
+      "marketCap": "$274,283,463,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$15.62",
+      "epsForecast": "$15.37",
       "noOfEsts": "7"
     },
     {
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "marketCap": "$222,595,858,000",
+      "marketCap": "$221,035,839,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.67",
       "noOfEsts": "7"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "BLK",
       "name": "BlackRock, Inc.",
-      "marketCap": "$163,226,010,000",
+      "marketCap": "$165,676,040,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$14.24",
       "noOfEsts": "6"
@@ -73,21 +73,10 @@
       "time": "time-pre-market",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
-      "marketCap": "$9,846,778,900",
+      "marketCap": "$9,732,646,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.33",
       "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$0.42",
-      "time": "time-not-supplied",
-      "symbol": "ACI",
-      "name": "Albertsons Companies, Inc.",
-      "marketCap": "$6,095,690,800",
-      "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$0.31",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/14/2025",
@@ -95,10 +84,21 @@
       "time": "time-not-supplied",
       "symbol": "HWC",
       "name": "Hancock Whitney Corporation",
-      "marketCap": "$5,992,662,500",
+      "marketCap": "$6,012,718,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.65",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "10/14/2025",
+      "lastYearEPS": "$0.42",
+      "time": "time-not-supplied",
+      "symbol": "ACI",
+      "name": "Albertsons Companies, Inc.",
+      "marketCap": "$5,993,772,000",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.31",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/14/2025",
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "FBK",
       "name": "FB Financial Corporation",
-      "marketCap": "$2,673,830,400",
+      "marketCap": "$2,666,833,410",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.21",
       "noOfEsts": "4"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "KARO",
       "name": "Karooooo Ltd.",
-      "marketCap": "$2,122,678,660",
+      "marketCap": "$2,059,656,320",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.57",
       "noOfEsts": "3"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "EQBK",
       "name": "Equity Bancshares, Inc.",
-      "marketCap": "$1,010,885,310",
+      "marketCap": "$1,009,649,790",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.31",
       "noOfEsts": "4"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "UNTY",
       "name": "Unity Bancorp, Inc.",
-      "marketCap": "$590,503,620",
+      "marketCap": "$584,377,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.50",
       "noOfEsts": "3"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "SOTK",
       "name": "Sono-Tek Corporation",
-      "marketCap": "$70,410,920",
+      "marketCap": "$72,611,264",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.05",
       "noOfEsts": "1"
@@ -161,7 +161,18 @@
       "time": "time-not-supplied",
       "symbol": "RCON",
       "name": "Recon Technology, Ltd.",
-      "marketCap": "$27,042,560",
+      "marketCap": "$27,252,192",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.11)",
+      "time": "time-not-supplied",
+      "symbol": "QNME",
+      "name": "Quanome Technologies, Inc.",
+      "marketCap": "$19,220,906",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -172,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "FOXX",
       "name": "Foxx Development Holdings Inc.",
-      "marketCap": "$17,250,920",
+      "marketCap": "$16,546,801",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -183,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "BMRA",
       "name": "Biomerica, Inc.",
-      "marketCap": "$10,829,964",
+      "marketCap": "$11,518,310",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -194,19 +205,8 @@
       "time": "time-not-supplied",
       "symbol": "FNGR",
       "name": "FingerMotion, Inc.",
-      "marketCap": "$10,701,619",
+      "marketCap": "$10,641,455",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
-      "symbol": "QNME",
-      "name": "Quanome Technologies, Inc.",
-      "marketCap": "$9,997,763",
-      "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "TGL",
       "name": "Treasure Global Inc.",
-      "marketCap": "$4,320,179",
+      "marketCap": "$4,408,146",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
