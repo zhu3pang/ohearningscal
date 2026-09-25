@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "JPM",
       "name": "J P Morgan Chase & Co",
-      "marketCap": "$903,783,320,000",
+      "marketCap": "$897,217,590,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$5.84",
       "noOfEsts": "6"
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCap": "$648,720,610,000",
+      "marketCap": "$648,672,380,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.96",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "marketCap": "$334,757,986,000",
+      "marketCap": "$333,267,993,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.12",
       "noOfEsts": "8"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "GS",
       "name": "The Goldman Sachs Group, Inc.",
-      "marketCap": "$276,464,337,000",
+      "marketCap": "$272,641,262,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$15.18",
       "noOfEsts": "7"
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "marketCap": "$222,210,048,000",
+      "marketCap": "$221,304,242,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.67",
       "noOfEsts": "7"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "BLK",
       "name": "BlackRock, Inc.",
-      "marketCap": "$165,192,843,000",
+      "marketCap": "$164,299,244,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$14.24",
       "noOfEsts": "6"
@@ -73,21 +73,10 @@
       "time": "time-pre-market",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
-      "marketCap": "$9,829,080,100",
+      "marketCap": "$9,806,418,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.33",
       "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "10/14/2025",
-      "lastYearEPS": "$1.49",
-      "time": "time-not-supplied",
-      "symbol": "HWC",
-      "name": "Hancock Whitney Corporation",
-      "marketCap": "$5,902,010,400",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.65",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/14/2025",
@@ -95,10 +84,21 @@
       "time": "time-not-supplied",
       "symbol": "ACI",
       "name": "Albertsons Companies, Inc.",
-      "marketCap": "$5,857,881,100",
+      "marketCap": "$5,678,310,400",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.31",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "10/08/2025",
+      "lastYearEPS": "$1.55",
+      "time": "time-after-hours",
+      "symbol": "AZZ",
+      "name": "AZZ Inc.",
+      "marketCap": "$4,141,096,960",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$1.82",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "10/14/2025",
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "FBK",
       "name": "FB Financial Corporation",
-      "marketCap": "$2,658,836,990",
+      "marketCap": "$2,630,849,280",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.21",
       "noOfEsts": "4"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "KARO",
       "name": "Karooooo Ltd.",
-      "marketCap": "$1,964,504,960",
+      "marketCap": "$1,983,658,750",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.57",
       "noOfEsts": "3"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "EQBK",
       "name": "Equity Bancshares, Inc.",
-      "marketCap": "$999,971,330",
+      "marketCap": "$984,321,020",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.31",
       "noOfEsts": "4"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "UNTY",
       "name": "Unity Bancorp, Inc.",
-      "marketCap": "$580,862,720",
+      "marketCap": "$573,029,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.50",
       "noOfEsts": "3"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "SOTK",
       "name": "Sono-Tek Corporation",
-      "marketCap": "$74,182,936",
+      "marketCap": "$76,383,272",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.05",
       "noOfEsts": "1"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "QNME",
       "name": "Quanome Technologies, Inc.",
-      "marketCap": "$29,294,410",
+      "marketCap": "$28,884,722",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "6"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "RCON",
       "name": "Recon Technology, Ltd.",
-      "marketCap": "$27,881,088",
+      "marketCap": "$28,719,616",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "6"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "FOXX",
       "name": "Foxx Development Holdings Inc.",
-      "marketCap": "$18,518,336",
+      "marketCap": "$17,391,744",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "6"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "BMRA",
       "name": "Biomerica, Inc.",
-      "marketCap": "$12,757,331",
+      "marketCap": "$11,954,262",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
       "noOfEsts": "6"
@@ -216,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "SGLY",
       "name": "Singularity Future Technology Ltd.",
-      "marketCap": "$5,782,053",
+      "marketCap": "$5,619,940",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "6"
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "TGL",
       "name": "Treasure Global Inc.",
-      "marketCap": "$4,085,599",
+      "marketCap": "$3,987,857",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "6"
