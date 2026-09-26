@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:Y8KKAHyH2YBagEq8W63uJ
-SUMMARY:英伟达 发布财报
-DTSTAMP:20260925T200600Z
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $2.09，当前市值: $5
-	\,073\,772\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
-	n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:m6rVJl1Hp0tOcWsB1Qr2K
+UID:xtQSc6a19jAFfisDvRJ0w
 SUMMARY:博通 发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OTCfr2s4eVr4wTDT8x1Df
+UID:i-dydrVc9L_tvQnh20wbv
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uwrF6d3prQmMU3qqGClA2
+UID:tBvFNGgkIHXWs8vqyw7IV
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.24，当前市值: $1
 	\,220\,343\,230\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
@@ -70,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oxURSynqW5sL6njCi6Dlb
+UID:LoYailxZjFC5gdAoey0Ps
 SUMMARY:台积电 发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,339\,891\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O4z6tqV-CILR--smqWW2r
+UID:gkAlGNzuObg7nq2ZgIuvx
 SUMMARY:可口可乐 发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $379
 	\,054\,588\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wTxumy9oHIA0Q072ptllD
+UID:qoMAd_31-TkKDM9xt5UY5
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20260925T200600Z
+DTSTAMP:20260926T092849Z
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $59\
 	,891\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
