@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6Cu-YbDPMtRoa4Rm-C-9N
+UID:s42nA4QYxCrLIfobSd67k
 SUMMARY:博通 发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oxQNsOk3DQMVHN1anGpjX
+UID:L9bzSWbLk13-5q6NRLT8e
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M3Kuirf5gHs6px1sVJ6DA
+UID:_01YjvAX2pIS7UOFtDAjI
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.24，当前市值: $1
 	\,222\,319\,670\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vwcEUCkQPfT-Q9BFCw8fM
+UID:FaC4y_TjhAVIHQAFBRXy4
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,337\,091\,090\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CL47JLIWdCrRMAB6R6VcM
+UID:tobU6zggfzU5qk1qtEkh6
 SUMMARY:可口可乐 发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20261020
-DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $379
-	\,054\,588\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
+DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $377
+	\,806\,848\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
 	https://www.futunn.com/hk/stock/KO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LiFIooPhme7i7fKKN0q2k
+UID:KN-RLIsBLUDhwWW_giJU6
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20260928T110904Z
+DTSTAMP:20260928T221351Z
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $59\
-	,891\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
+	,661\,869\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
 	https://www.futunn.com/hk/stock/NOK-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
