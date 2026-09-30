@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "FITB",
       "name": "Fifth Third Bancorp",
-      "marketCap": "$46,768,447,000",
+      "marketCap": "$46,224,314,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.09",
       "noOfEsts": "8"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "STLD",
       "name": "Steel Dynamics, Inc.",
-      "marketCap": "$33,021,358,100",
+      "marketCap": "$31,804,502,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$5.41",
       "noOfEsts": "3"
@@ -29,21 +29,10 @@
       "time": "time-after-hours",
       "symbol": "WRB",
       "name": "W.R. Berkley Corporation",
-      "marketCap": "$25,117,253,600",
+      "marketCap": "$25,325,142,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.13",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "10/20/2025",
-      "lastYearEPS": "$2.86",
-      "time": "time-not-supplied",
-      "symbol": "PAC",
-      "name": "Grupo Aeroportuario Del Pacifico, S.A. de C.V.",
-      "marketCap": "$12,722,678,800",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.68",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "10/20/2025",
@@ -51,9 +40,20 @@
       "time": "time-not-supplied",
       "symbol": "SMMT",
       "name": "Summit Therapeutics Inc. ",
-      "marketCap": "$12,349,163,500",
+      "marketCap": "$13,075,116,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.28)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/20/2025",
+      "lastYearEPS": "$2.86",
+      "time": "time-not-supplied",
+      "symbol": "PAC",
+      "name": "Grupo Aeroportuario Del Pacifico, S.A. de C.V.",
+      "marketCap": "$12,519,778,300",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$2.68",
       "noOfEsts": "3"
     },
     {
@@ -62,7 +62,7 @@
       "time": "time-after-hours",
       "symbol": "CCK",
       "name": "Crown Holdings, Inc.",
-      "marketCap": "$11,688,492,000",
+      "marketCap": "$11,566,680,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.25",
       "noOfEsts": "4"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "AGNC",
       "name": "AGNC Investment Corp.",
-      "marketCap": "$11,214,654,500",
+      "marketCap": "$11,202,799,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.39",
       "noOfEsts": "4"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "BTSG",
       "name": "BrightSpring Health Services, Inc.",
-      "marketCap": "$11,187,244,000",
+      "marketCap": "$11,019,059,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.46",
       "noOfEsts": "5"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "WTFC",
       "name": "Wintrust Financial Corporation",
-      "marketCap": "$9,716,448,300",
+      "marketCap": "$9,680,691,200",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$3.26",
       "noOfEsts": "6"
@@ -106,7 +106,7 @@
       "time": "time-after-hours",
       "symbol": "ZION",
       "name": "Zions Bancorporation N.A.",
-      "marketCap": "$9,222,792,200",
+      "marketCap": "$9,138,139,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.64",
       "noOfEsts": "11"
@@ -117,7 +117,7 @@
       "time": "time-after-hours",
       "symbol": "BOKF",
       "name": "BOK Financial Corporation",
-      "marketCap": "$7,935,545,300",
+      "marketCap": "$7,815,834,600",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.54",
       "noOfEsts": "3"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "CLF",
       "name": "Cleveland-Cliffs Inc.",
-      "marketCap": "$6,401,459,200",
+      "marketCap": "$6,281,646,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.24",
       "noOfEsts": "5"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "RLI",
       "name": "RLI Corp.",
-      "marketCap": "$5,137,451,000",
+      "marketCap": "$5,183,337,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.54",
       "noOfEsts": "4"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "SFBS",
       "name": "ServisFirst Bancshares, Inc.",
-      "marketCap": "$4,485,332,500",
+      "marketCap": "$4,382,548,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.82",
       "noOfEsts": "2"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "DX",
       "name": "Dynex Capital, Inc.",
-      "marketCap": "$2,811,731,200",
+      "marketCap": "$2,826,621,180",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "4"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "PFBC",
       "name": "Preferred Bank",
-      "marketCap": "$1,565,168,510",
+      "marketCap": "$1,525,400,450",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.68",
       "noOfEsts": "5"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "HBT",
       "name": "HBT Financial, Inc.",
-      "marketCap": "$1,305,525,500",
+      "marketCap": "$1,297,888,640",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.78",
       "noOfEsts": "3"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "CLBK",
       "name": "Columbia Financial, Inc.",
-      "marketCap": "$1,134,117,380",
+      "marketCap": "$1,132,036,480",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.13",
       "noOfEsts": "2"
@@ -205,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "WASH",
       "name": "Washington Trust Bancorp, Inc.",
-      "marketCap": "$734,170,620",
+      "marketCap": "$723,679,740",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.87",
       "noOfEsts": "3"
@@ -216,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "HBCP",
       "name": "Home Bancorp, Inc.",
-      "marketCap": "$527,812,480",
+      "marketCap": "$523,326,176",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.51",
       "noOfEsts": "3"
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "RBB",
       "name": "RBB Bancorp",
-      "marketCap": "$445,397,344",
+      "marketCap": "$441,675,808",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.57",
       "noOfEsts": "5"
@@ -238,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "ISTR",
       "name": "Investar Holding Corporation",
-      "marketCap": "$404,080,160",
+      "marketCap": "$401,875,840",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.75",
       "noOfEsts": "2"
@@ -249,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "FLXS",
       "name": "Flexsteel Industries, Inc.",
-      "marketCap": "$358,150,080",
+      "marketCap": "$353,362,752",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.25",
       "noOfEsts": "1"
@@ -260,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "COSO",
       "name": "CoastalSouth Bancshares, Inc.",
-      "marketCap": "$317,510,080",
+      "marketCap": "$314,760,576",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.61",
       "noOfEsts": "2"
@@ -271,7 +271,7 @@
       "time": "time-not-supplied",
       "symbol": "FUNC",
       "name": "First United Corporation",
-      "marketCap": "$282,936,160",
+      "marketCap": "$280,225,568",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.16",
       "noOfEsts": "1"
@@ -282,7 +282,7 @@
       "time": "time-not-supplied",
       "symbol": "PEBK",
       "name": "Peoples Bancorp of North Carolina, Inc.",
-      "marketCap": "$235,663,296",
+      "marketCap": "$237,847,888",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "4"
