@@ -2,9 +2,9 @@
   "date": "2026-09-30",
   "data": [
     {
-      "lastYearRptDt": "9/23/2025",
-      "lastYearEPS": "$2.86",
-      "time": "time-after-hours",
+      "eps": "$33.19",
+      "surprise": "5.67",
+      "time": "time-not-supplied",
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
       "marketCap": "$1,202,894,010,000",
@@ -13,20 +13,20 @@
       "noOfEsts": "10"
     },
     {
-      "lastYearRptDt": "9/25/2025",
-      "lastYearEPS": "$3.12",
-      "time": "time-pre-market",
+      "eps": "$4.17",
+      "surprise": "7.2",
+      "time": "time-not-supplied",
       "symbol": "JBL",
       "name": "Jabil Inc.",
       "marketCap": "$33,410,316,300",
       "fiscalQuarterEnding": "Aug/2026",
-      "epsForecast": "$3.88",
+      "epsForecast": "$3.89",
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "9/18/2025",
-      "lastYearEPS": "$4.05",
-      "time": "time-pre-market",
+      "eps": "$4.52",
+      "surprise": "4.63",
+      "time": "time-not-supplied",
       "symbol": "FDS",
       "name": "FactSet Research Systems Inc.",
       "marketCap": "$9,245,974,500",
@@ -35,9 +35,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/01/2025",
-      "lastYearEPS": "$0.39",
-      "time": "time-pre-market",
+      "eps": "$0.41",
+      "surprise": "32.26",
+      "time": "time-not-supplied",
       "symbol": "CAG",
       "name": "ConAgra Brands, Inc.",
       "marketCap": "$6,783,355,400",
@@ -46,20 +46,20 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "8/13/2025",
-      "lastYearEPS": "$0.09",
+      "eps": "($1.26)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
-      "symbol": "SA",
-      "name": "Seabridge Gold, Inc.",
-      "marketCap": "$3,104,251,140",
-      "fiscalQuarterEnding": "Jun/2026",
+      "symbol": "CALM",
+      "name": "Cal-Maine Foods, Inc.",
+      "marketCap": "$3,216,084,480",
+      "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "9/29/2025",
-      "lastYearEPS": "$1.19",
-      "time": "time-after-hours",
+      "eps": "$1.38",
+      "surprise": "18.97",
+      "time": "time-not-supplied",
       "symbol": "PRGS",
       "name": "Progress Software Corporation",
       "marketCap": "$1,617,550,460",
@@ -68,19 +68,30 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.26",
+      "eps": "$0.26",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HTT",
       "name": "High Templar Tech Limited",
       "marketCap": "$372,680,416",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/20/2025",
-      "lastYearEPS": "($0.07)",
+      "eps": "$0.03",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "HTLM",
+      "name": "HomesToLife Ltd",
+      "marketCap": "$173,913,024",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.07)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NBP",
       "name": "NovaBridge Biosciences",
@@ -90,9 +101,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/08/2025",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
+      "eps": "$0.24",
+      "surprise": "84.62",
+      "time": "time-not-supplied",
       "symbol": "BSET",
       "name": "Bassett Furniture Industries, Incorporated",
       "marketCap": "$156,281,760",
@@ -101,92 +112,103 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RYDE",
       "name": "Ryde Group Ltd.",
       "marketCap": "$129,690,848",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.04)",
+      "eps": "($0.75)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "YRD",
+      "name": "Yiren Digital Ltd.",
+      "marketCap": "$87,418,472",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.04)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AACG",
       "name": "ATA Creativity Global",
       "marketCap": "$56,123,312",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "DSWL",
       "name": "Deswell Industries, Inc.",
       "marketCap": "$48,529,404",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.08",
+      "eps": "$0.08",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SJ",
       "name": "Scienjoy Holding Corporation",
       "marketCap": "$28,743,048",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($2.80)",
+      "eps": "($1.89)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CLGN",
       "name": "CollPlant Biotechnologies Ltd.",
       "marketCap": "$7,166,212",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($14.40)",
+      "eps": "($14.40)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GAUZ",
       "name": "Gauzy Ltd.",
       "marketCap": "$6,321,601",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.60)",
+      "eps": "$0.64",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GURE",
       "name": "Gulf Resources, Inc.",
       "marketCap": "$5,803,299",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LKSP",
       "name": "Lake Superior Acquisition Corp.",
       "marketCap": "",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     }
   ]
 }
