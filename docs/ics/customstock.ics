@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6J4hkNXndcQZQ5O9zV3YP
+UID:ytFz_Aqz6O7JJv0w0QPIr
 SUMMARY:博通 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zj7yni5qT26EOyi0U9mkv
+UID:R1HqzbHGXKgia61GmoA_Y
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5z5-jLWshL0_iP5DKEjeG
+UID:l_Fta5e3OKG36aQ5eL92p
 SUMMARY:美光科技 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.41，当前市值: $1
-	\,202\,894\,010\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+	\,202\,927\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:U8SEDOREpaeKL0OpEf0GA
+UID:rnbssS8tj3hXY-ZFyCJak
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,369\,921\,480\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,366\,031\,790\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F2kzMmd9T7A41r20OY_Ez
+UID:amhty1J6t1oDuPV22mX0r
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $59\
-	,489\,604\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
+DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $58\
+	,226\,311\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
 	https://www.futunn.com/hk/stock/NOK-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x8dnwpQWn57dZT7LDgeOj
+UID:pAvlP2EPsAzdcP-JVzZys
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261027
-DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $373
-	\,633\,384\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
+DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $370
+	\,363\,433\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
 	https://www.futunn.com/hk/stock/KO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AASLOHde5bVk7oS2BdAw_
+UID:pR_CFqK2UqWldqBrSGZPR
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.24，当前市值: $1\
 	,401\,338\,860\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f8nSrQuvV6LUQIAEaEyTz
+UID:Peaz1RdKtj4z2hXmtY6oQ
 SUMMARY:苹果 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.98，当前市值: $4
 	\,860\,154\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CP5gH_Pz1ZpzlBbxwHz7b
+UID:0m2_EGofGqoO2zPbto-fF
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20261001T110649Z
+DTSTAMP:20261001T211234Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $2.01，当前市值: $
 	2\,687\,410\,110\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
