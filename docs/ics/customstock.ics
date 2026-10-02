@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ytFz_Aqz6O7JJv0w0QPIr
+UID:Lr_zYBw4MS3aMrudZ5aHg
 SUMMARY:博通 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体。\n预计每股收益: $2.83，当前市值: $1\
 	,747\,173\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO \n
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R1HqzbHGXKgia61GmoA_Y
+UID:b5RosvMMz15k0arwubA0J
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l_Fta5e3OKG36aQ5eL92p
+UID:CUbfv9ibi0eEGkEk664cq
 SUMMARY:美光科技 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.41，当前市值: $1
 	\,202\,927\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rnbssS8tj3hXY-ZFyCJak
+UID:qeQ0ODoYxxGtbtuRZkbml
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,366\,031\,790\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:amhty1J6t1oDuPV22mX0r
+UID:x7zIbww7gjLHGBqGkjsH2
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $58\
 	,226\,311\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pAvlP2EPsAzdcP-JVzZys
+UID:bbkbq6nw-Fo-vLyyG6gKb
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261027
 DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $370
 	\,363\,433\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pR_CFqK2UqWldqBrSGZPR
+UID:boGtJ6aWw8I74adYMQYxT
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.24，当前市值: $1\
 	,401\,338\,860\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Peaz1RdKtj4z2hXmtY6oQ
+UID:_0BTrqoVo3Cq04P2rM7Kx
 SUMMARY:苹果 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.98，当前市值: $4
 	\,860\,154\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0m2_EGofGqoO2zPbto-fF
+UID:FiCQkj8WYktZCgpWFYjcP
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20261001T211234Z
+DTSTAMP:20261002T103930Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $2.01，当前市值: $
 	2\,687\,410\,110\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
