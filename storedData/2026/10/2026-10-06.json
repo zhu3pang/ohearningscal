@@ -2,8 +2,8 @@
   "date": "2026-10-06",
   "data": [
     {
-      "lastYearRptDt": "10/06/2025",
-      "lastYearEPS": "$3.63",
+      "eps": "$3.63",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "STZ",
       "name": "Constellation Brands Inc",
@@ -13,9 +13,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "10/01/2025",
-      "lastYearEPS": "$1.88",
-      "time": "time-pre-market",
+      "eps": "$1.98",
+      "surprise": "1.54",
+      "time": "time-not-supplied",
       "symbol": "RPM",
       "name": "RPM International Inc.",
       "marketCap": "$12,173,756,400",
@@ -24,9 +24,9 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "9/30/2025",
-      "lastYearEPS": "$0.74",
-      "time": "time-pre-market",
+      "eps": "$0.75",
+      "surprise": "27.12",
+      "time": "time-not-supplied",
       "symbol": "LW",
       "name": "Lamb Weston Holdings, Inc.",
       "marketCap": "$6,127,528,400",
@@ -35,8 +35,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "10/07/2025",
-      "lastYearEPS": "$0.30",
+      "eps": "$0.30",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PENG",
       "name": "Penguin Solutions, Inc.",
@@ -46,8 +46,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "$0.02",
+      "eps": "$0.02",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "NEOG",
       "name": "Neogen Corporation",
@@ -57,8 +57,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "9/24/2025",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WS",
       "name": "Worthington Steel, Inc.",
@@ -68,9 +68,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "10/09/2025",
-      "lastYearEPS": "$0.98",
-      "time": "time-pre-market",
+      "eps": "$1.17",
+      "surprise": "98.31",
+      "time": "time-not-supplied",
       "symbol": "APOG",
       "name": "Apogee Enterprises, Inc.",
       "marketCap": "$744,163,390",
@@ -79,8 +79,19 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "10/07/2025",
-      "lastYearEPS": "$0.58",
+      "eps": "$0.92",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "VLGEA",
+      "name": "Village Super Market, Inc.",
+      "marketCap": "$673,239,490",
+      "fiscalQuarterEnding": "Jul/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.58",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SAR",
       "name": "Saratoga Investment Corp",
@@ -90,8 +101,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.04",
+      "eps": "$0.04",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AXIL",
       "name": "AXIL Brands, Inc.",
@@ -101,8 +112,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
+      "eps": "$0.05",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ARTW",
       "name": "Art's-Way Manufacturing Co., Inc.",
