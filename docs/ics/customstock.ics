@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:RkFYBUqYLx5q2bCqwDu4Y
+UID:ndm0UZ7eR0vRS0PMuQrQY
 SUMMARY:甲骨文 发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20260910
 DESCRIPTION:财务季度：Aug/2026。\n代码：ORCL，公司：甲骨文，行业: 信息技术。\n预计每股收益: $1.39，当前市值: $
 	440\,539\,251\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:386CjPNdEMm9RpvIBZYvp
+UID:7BDkuBA4SDjXceWxlkTBb
 SUMMARY:美光科技 发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.41，当前市值: $1
 	\,202\,927\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_7xvUmgINtcvHg8fGqyMw
+UID:vEy9RFMBSUbWD3fkB-47j
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
 	,375\,367\,260\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OXjaacUTOertUYCG6SVqV
+UID:Svve5xsXMduVHcjky-BmT
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261021
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：特斯拉，行业: 汽车。\n预计每股收益: $0.23，当前市值: $1\
 	,481\,080\,310\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2kHLe5uppUqlaixzhRiCQ
+UID:EqMFV0re5S_z04NUsO_Kk
 SUMMARY:诺基亚 盘前发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261022
-DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $60\
-	,982\,587\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
+DESCRIPTION:财务季度：Sep/2026。\n代码：NOK，公司：诺基亚，行业: 通信。\n预计每股收益: $0.08，当前市值: $58\
+	,226\,311\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOK \n在富途查看：
 	https://www.futunn.com/hk/stock/NOK-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wenGXGBynZwK_hJUodccN
+UID:sNSke_yPCSuWEKYYFJvfa
 SUMMARY:可口可乐 盘前发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261027
-DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $369
-	\,244\,766\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
+DESCRIPTION:财务季度：Sep/2026。\n代码：KO，公司：可口可乐，行业: 饮料。\n预计每股收益: $0.87，当前市值: $377
+	\,634\,750\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途查看：
 	https://www.futunn.com/hk/stock/KO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IRz0yZdd36U1lz5OEJFhV
+UID:vLW4VWlJCC9Si1YMUaEvf
 SUMMARY:谷歌 盘后发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：GOOG，公司：谷歌，行业: 互联网。\n预计每股收益: $2.95，当前市值: $4\
-	,286\,615\,130\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
+	,259\,586\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \n
 	在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5Y8jrFIrdDVOPzI0wqdgW
+UID:mCvPHCfb-jh1ZvInWPym8
 SUMMARY:微软 盘后发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：MSFT，公司：微软，行业: 互联网。\n预计每股收益: $4.71，当前市值: $3\
-	,933\,756\,980\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n
+	,880\,664\,430\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \n
 	在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7IUqvEp1--XDHz1qjSPUV
+UID:ZvXzdMNSwyXXVsLyeoECr
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $2.02，当前市值: $
-	2\,803\,578\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
+	2\,740\,370\,800\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
 	\n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nnqrg_UpAfUbPd2e8D2b0
+UID:5SotwTM9rM6yw5MKWpf0L
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261102
 DESCRIPTION:财务季度：Sep/2026。\n代码：AAPL，公司：苹果，行业: 消费电子。\n预计每股收益: $1.98，当前市值: $4
 	\,968\,151\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NDFmJb_Z6jQUcZSjgT6Jx
+UID:l11LaX9Uz1-N6qMsULFvi
 SUMMARY:AMD 盘后发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMD，公司：AMD，行业: 半导体。\n预计每股收益: $1.66，当前市值: $1\
-	,054\,350\,310\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
+	,013\,244\,620\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在
 	富途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dCZTadwgcz0OO1wb_pihb
+UID:z_J4ZjlBBgg2dHlX7NHh3
 SUMMARY:Meta 发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：META，公司：Meta，行业: 互联网。\n预计每股收益: $6.39，当前市值: $
 	1\,836\,471\,810\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META 
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LmrqkGXLGGYHXVnx7IhlA
+UID:hR5hspUPHiFKqsPX-jE0A
 SUMMARY:麦当劳 发布财报
-DTSTAMP:20261009T112811Z
+DTSTAMP:20261009T210717Z
 DTSTART;VALUE=DATE:20261104
 DESCRIPTION:财务季度：Sep/2026。\n代码：MCD，公司：麦当劳，行业: 银行。\n预计每股收益: $3.37，当前市值: $167
 	\,640\,285\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCD \n在富途查看
