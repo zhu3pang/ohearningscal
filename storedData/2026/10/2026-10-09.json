@@ -2,15 +2,15 @@
   "date": "2026-10-09",
   "data": [
     {
-      "eps": "$1.71",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.72",
+      "surprise": "-4.44",
+      "time": "time-not-supplied",
       "symbol": "DAL",
       "name": "Delta Air Lines, Inc.",
       "marketCap": "$54,017,155,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.80",
-      "noOfEsts": "6"
+      "noOfEsts": "7"
     },
     {
       "eps": "$3.86",
@@ -35,15 +35,37 @@
       "noOfEsts": "N/A"
     },
     {
-      "eps": "($0.11)",
+      "eps": "($0.13)",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
+      "symbol": "TORO",
+      "name": "Toro Corp.",
+      "marketCap": "$189,385,120",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.05)",
+      "surprise": "37.5",
+      "time": "time-not-supplied",
       "symbol": "HOVR",
       "name": "New Horizon Aircraft Ltd.",
       "marketCap": "$102,699,632",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "($0.08)",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.03)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "ARTW",
+      "name": "Art's-Way Manufacturing Co., Inc.",
+      "marketCap": "$19,089,088",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
