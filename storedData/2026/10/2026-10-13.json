@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "JPM",
       "name": "J P Morgan Chase & Co",
-      "marketCap": "$888,631,660,000",
+      "marketCap": "$881,002,680,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$5.94",
       "noOfEsts": "6"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "JNJ",
       "name": "Johnson & Johnson",
-      "marketCap": "$635,562,560,000",
+      "marketCap": "$599,124,870,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.53",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "UNH",
       "name": "UnitedHealth Group Incorporated",
-      "marketCap": "$339,757,597,000",
+      "marketCap": "$339,075,432,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.12",
       "noOfEsts": "8"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "GS",
       "name": "The Goldman Sachs Group, Inc.",
-      "marketCap": "$260,292,674,000",
+      "marketCap": "$259,698,688,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$12.90",
       "noOfEsts": "7"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "WFC",
       "name": "Wells Fargo & Company",
-      "marketCap": "$251,959,624,000",
+      "marketCap": "$244,157,710,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.85",
       "noOfEsts": "8"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "marketCap": "$221,287,465,000",
+      "marketCap": "$208,891,199,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.66",
       "noOfEsts": "7"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
-      "marketCap": "$10,285,111,300",
+      "marketCap": "$9,795,502,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.33",
       "noOfEsts": "9"
@@ -84,18 +84,18 @@
       "time": "time-not-supplied",
       "symbol": "ACI",
       "name": "Albertsons Companies, Inc.",
-      "marketCap": "$6,085,984,300",
+      "marketCap": "$6,173,342,700",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$0.31",
       "noOfEsts": "6"
     },
     {
-      "eps": "$1.55",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "$2",
+      "surprise": "9.89",
+      "time": "time-not-supplied",
       "symbol": "AZZ",
       "name": "AZZ Inc.",
-      "marketCap": "$4,139,894,780",
+      "marketCap": "$4,108,340,740",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "$1.82",
       "noOfEsts": "4"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "FBK",
       "name": "FB Financial Corporation",
-      "marketCap": "$2,646,342,400",
+      "marketCap": "$2,534,891,260",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.21",
       "noOfEsts": "5"
@@ -117,10 +117,21 @@
       "time": "time-not-supplied",
       "symbol": "UNTY",
       "name": "Unity Bancorp, Inc.",
-      "marketCap": "$556,057,540",
+      "marketCap": "$556,258,370",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.49",
       "noOfEsts": "3"
+    },
+    {
+      "eps": "($0.17)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NUCL",
+      "name": "Eagle Nuclear Energy Corp.",
+      "marketCap": "$161,801,488",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.03)",
@@ -128,10 +139,10 @@
       "time": "time-not-supplied",
       "symbol": "FNGR",
       "name": "FingerMotion, Inc.",
-      "marketCap": "$13,988,061",
+      "marketCap": "$14,928,119",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "N/A"
     },
     {
       "eps": "$0",
@@ -139,10 +150,21 @@
       "time": "time-not-supplied",
       "symbol": "BMRA",
       "name": "Biomerica, Inc.",
-      "marketCap": "$8,439,106",
+      "marketCap": "$8,508,091",
       "fiscalQuarterEnding": "Aug/2026",
       "epsForecast": "",
-      "noOfEsts": "6"
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($1.64)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "TGL",
+      "name": "Treasure Global Inc.",
+      "marketCap": "$543,443",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
