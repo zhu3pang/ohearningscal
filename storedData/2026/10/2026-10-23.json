@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "AXP",
       "name": "American Express Company",
-      "marketCap": "$209,238,000,000",
+      "marketCap": "$207,286,354,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$4.47",
       "noOfEsts": "9"
@@ -18,9 +18,9 @@
       "time": "time-pre-market",
       "symbol": "E",
       "name": "ENI S.p.A.",
-      "marketCap": "$90,390,831,000",
+      "marketCap": "$90,799,907,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.99",
+      "epsForecast": "$1.92",
       "noOfEsts": "2"
     },
     {
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "ITW",
       "name": "Illinois Tool Works Inc.",
-      "marketCap": "$75,847,934,000",
+      "marketCap": "$76,745,056,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.99",
       "noOfEsts": "6"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "SLB",
       "name": "SLB Limited",
-      "marketCap": "$72,381,669,000",
+      "marketCap": "$71,995,785,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.62",
       "noOfEsts": "10"
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "INFY",
       "name": "Infosys Limited",
-      "marketCap": "$46,242,505,000",
+      "marketCap": "$46,567,014,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "3"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "FCNCA",
       "name": "First Citizens BancShares, Inc.",
-      "marketCap": "$23,434,580,000",
+      "marketCap": "$23,211,200,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$46.61",
       "noOfEsts": "5"
@@ -73,7 +73,7 @@
       "time": "time-pre-market",
       "symbol": "RCI",
       "name": "Rogers Communication, Inc.",
-      "marketCap": "$16,974,219,300",
+      "marketCap": "$17,083,392,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.86",
       "noOfEsts": "5"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "RDY",
       "name": "Dr. Reddy's Laboratories Ltd",
-      "marketCap": "$10,658,569,200",
+      "marketCap": "$10,641,876,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.16",
       "noOfEsts": "1"
@@ -95,7 +95,7 @@
       "time": "time-pre-market",
       "symbol": "BAH",
       "name": "Booz Allen Hamilton Holding Corporation",
-      "marketCap": "$8,697,806,800",
+      "marketCap": "$8,644,881,400",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.44",
       "noOfEsts": "6"
@@ -106,7 +106,7 @@
       "time": "time-pre-market",
       "symbol": "ALV",
       "name": "Autoliv, Inc.",
-      "marketCap": "$8,333,662,700",
+      "marketCap": "$8,324,142,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$2.21",
       "noOfEsts": "3"
@@ -117,20 +117,9 @@
       "time": "time-pre-market",
       "symbol": "BCPC",
       "name": "Balchem Corporation",
-      "marketCap": "$5,410,337,800",
+      "marketCap": "$5,433,927,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.53",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "($0.46)",
-      "time": "time-not-supplied",
-      "symbol": "CORZ",
-      "name": "Core Scientific, Inc.",
-      "marketCap": "$4,958,282,800",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0",
       "noOfEsts": "2"
     },
     {
@@ -139,7 +128,7 @@
       "time": "time-pre-market",
       "symbol": "RITM",
       "name": "Rithm Capital Corp.",
-      "marketCap": "$4,746,459,600",
+      "marketCap": "$4,662,698,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.50",
       "noOfEsts": "3"
@@ -150,7 +139,7 @@
       "time": "time-pre-market",
       "symbol": "FLG",
       "name": "Flagstar Bank, N.A.",
-      "marketCap": "$4,653,190,700",
+      "marketCap": "$4,611,681,300",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.06",
       "noOfEsts": "10"
@@ -161,10 +150,21 @@
       "time": "time-pre-market",
       "symbol": "GNTX",
       "name": "Gentex Corporation",
-      "marketCap": "$4,396,961,300",
+      "marketCap": "$4,377,999,900",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.51",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/24/2025",
+      "lastYearEPS": "($0.46)",
+      "time": "time-not-supplied",
+      "symbol": "CORZ",
+      "name": "Core Scientific, Inc.",
+      "marketCap": "$4,341,309,400",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "10/24/2025",
@@ -172,7 +172,7 @@
       "time": "time-pre-market",
       "symbol": "FHB",
       "name": "First Hawaiian, Inc.",
-      "marketCap": "$2,977,542,660",
+      "marketCap": "$2,964,157,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.60",
       "noOfEsts": "6"
@@ -183,7 +183,7 @@
       "time": "time-pre-market",
       "symbol": "GRC",
       "name": "Gorman-Rupp Company (The)",
-      "marketCap": "$1,950,660,610",
+      "marketCap": "$1,926,363,140",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.67",
       "noOfEsts": "1"
@@ -194,21 +194,10 @@
       "time": "time-pre-market",
       "symbol": "PFBC",
       "name": "Preferred Bank",
-      "marketCap": "$1,472,424,190",
+      "marketCap": "$1,464,240,900",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.68",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "$1.65",
-      "time": "time-not-supplied",
-      "symbol": "TMP",
-      "name": "Tompkins Financial Corporation",
-      "marketCap": "$1,383,635,460",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.91",
-      "noOfEsts": "1"
+      "epsForecast": "$2.69",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "10/24/2025",
@@ -216,20 +205,20 @@
       "time": "time-not-supplied",
       "symbol": "TV",
       "name": "Grupo Televisa S.A.B.",
-      "marketCap": "$1,363,931,520",
+      "marketCap": "$1,462,677,760",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "10/25/2025",
-      "lastYearEPS": "N/A",
+      "lastYearRptDt": "10/24/2025",
+      "lastYearEPS": "$1.65",
       "time": "time-not-supplied",
-      "symbol": "SIFY",
-      "name": "Sify Technologies Limited",
-      "marketCap": "$914,124,860",
+      "symbol": "TMP",
+      "name": "Tompkins Financial Corporation",
+      "marketCap": "$1,378,745,220",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0",
+      "epsForecast": "$1.91",
       "noOfEsts": "1"
     },
     {
@@ -238,10 +227,21 @@
       "time": "time-not-supplied",
       "symbol": "SBSI",
       "name": "Southside Bancshares, Inc.",
-      "marketCap": "$905,566,460",
+      "marketCap": "$900,797,180",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.79",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/25/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "SIFY",
+      "name": "Sify Technologies Limited",
+      "marketCap": "$881,891,460",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -249,7 +249,7 @@
       "time": "time-after-hours",
       "symbol": "RCBC",
       "name": "River City Bank",
-      "marketCap": "$783,113,660",
+      "marketCap": "$760,962,110",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.29",
       "noOfEsts": "3"
@@ -260,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "PDLB",
       "name": "Ponce Financial Group, Inc.",
-      "marketCap": "$486,418,688",
+      "marketCap": "$482,548,640",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$9.40",
       "noOfEsts": "1"
@@ -271,20 +271,9 @@
       "time": "time-not-supplied",
       "symbol": "COFS",
       "name": "ChoiceOne Financial Services, Inc.",
-      "marketCap": "$485,904,832",
+      "marketCap": "$480,819,968",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.93",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "10/24/2025",
-      "lastYearEPS": "($1.03)",
-      "time": "time-pre-market",
-      "symbol": "EAF",
-      "name": "GrafTech International Ltd.",
-      "marketCap": "$214,216,672",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($1.46)",
       "noOfEsts": "2"
     },
     {
@@ -293,10 +282,21 @@
       "time": "time-not-supplied",
       "symbol": "FCAP",
       "name": "First Capital, Inc.",
-      "marketCap": "$208,336,688",
+      "marketCap": "$206,597,488",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "10/24/2025",
+      "lastYearEPS": "($1.03)",
+      "time": "time-pre-market",
+      "symbol": "EAF",
+      "name": "GrafTech International Ltd.",
+      "marketCap": "$201,692,432",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($1.46)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "10/24/2025",
@@ -304,7 +304,7 @@
       "time": "time-not-supplied",
       "symbol": "LOAN",
       "name": "Manhattan Bridge Capital, Inc",
-      "marketCap": "$38,161,200",
+      "marketCap": "$39,075,240",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.11",
       "noOfEsts": "1"
@@ -315,7 +315,7 @@
       "time": "time-not-supplied",
       "symbol": "AMST",
       "name": "Amesite Inc.",
-      "marketCap": "$5,567,373",
+      "marketCap": "$5,518,249",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "3"
@@ -326,7 +326,7 @@
       "time": "time-not-supplied",
       "symbol": "PW",
       "name": "Power REIT",
-      "marketCap": "$2,540,470",
+      "marketCap": "$2,566,169",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "3"
