@@ -2,12 +2,23 @@
   "date": "2026-12-09",
   "data": [
     {
+      "lastYearRptDt": "12/11/2025",
+      "lastYearEPS": "$1.61",
+      "time": "time-after-hours",
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "marketCap": "$1,525,079,210,000",
+      "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "$3.45",
+      "noOfEsts": "10"
+    },
+    {
       "lastYearRptDt": "12/10/2025",
       "lastYearEPS": "$1.95",
       "time": "time-not-supplied",
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "marketCap": "$351,055,741,000",
+      "marketCap": "$362,213,343,000",
       "fiscalQuarterEnding": "Nov/2026",
       "epsForecast": "$1.56",
       "noOfEsts": "10"
@@ -18,21 +29,10 @@
       "time": "time-not-supplied",
       "symbol": "ADBE",
       "name": "Adobe Inc.",
-      "marketCap": "$93,135,561,000",
+      "marketCap": "$92,364,947,000",
       "fiscalQuarterEnding": "Nov/2026",
       "epsForecast": "$5.11",
       "noOfEsts": "12"
-    },
-    {
-      "lastYearRptDt": "12/10/2025",
-      "lastYearEPS": "$3.03",
-      "time": "time-not-supplied",
-      "symbol": "NDSN",
-      "name": "Nordson Corporation",
-      "marketCap": "$17,259,006,000",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$3.46",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "12/10/2025",
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "CHWY",
       "name": "Chewy, Inc.",
-      "marketCap": "$9,067,479,000",
+      "marketCap": "$9,264,422,900",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.20",
       "noOfEsts": "8"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "MTN",
       "name": "Vail Resorts, Inc.",
-      "marketCap": "$5,664,446,500",
+      "marketCap": "$5,710,879,200",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($5.42)",
       "noOfEsts": "5"
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "PL",
       "name": "Planet Labs PBC",
-      "marketCap": "$4,566,292,500",
+      "marketCap": "$5,228,495,400",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.08)",
       "noOfEsts": "2"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "UEC",
       "name": "Uranium Energy Corp.",
-      "marketCap": "$3,429,445,890",
+      "marketCap": "$3,776,355,070",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.09)",
       "noOfEsts": "2"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "PLAB",
       "name": "Photronics, Inc.",
-      "marketCap": "$1,614,162,430",
+      "marketCap": "$1,706,198,020",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.44",
       "noOfEsts": "3"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "DAKT",
       "name": "Daktronics, Inc.",
-      "marketCap": "$933,478,340",
+      "marketCap": "$961,852,990",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.31",
       "noOfEsts": "2"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "VBNK",
       "name": "VersaBank",
-      "marketCap": "$746,630,980",
+      "marketCap": "$797,891,520",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.35",
       "noOfEsts": "2"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "OXM",
       "name": "Oxford Industries, Inc.",
-      "marketCap": "$439,612,352",
+      "marketCap": "$455,788,864",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($1.30)",
       "noOfEsts": "1"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "JILL",
       "name": "J. Jill, Inc.",
-      "marketCap": "$332,782,048",
+      "marketCap": "$341,699,840",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.59",
       "noOfEsts": "1"
@@ -139,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "JACK",
       "name": "Jack In The Box Inc.",
-      "marketCap": "$270,236,768",
+      "marketCap": "$284,429,472",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.44",
       "noOfEsts": "6"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "ELVA",
       "name": "Electrovaya Inc.",
-      "marketCap": "$245,106,528",
+      "marketCap": "$263,110,144",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0",
       "noOfEsts": "4"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "ASYS",
       "name": "Amtech Systems, Inc.",
-      "marketCap": "$200,030,048",
+      "marketCap": "$210,447,376",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.12",
       "noOfEsts": "1"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "USAU",
       "name": "U.S. Gold Corp.",
-      "marketCap": "$187,269,760",
+      "marketCap": "$197,848,096",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.42)",
       "noOfEsts": "1"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "KEQU",
       "name": "Kewaunee Scientific Corporation",
-      "marketCap": "$98,789,240",
+      "marketCap": "$97,631,392",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "NTRB",
       "name": "Nutriband Inc.",
-      "marketCap": "$67,464,040",
+      "marketCap": "$72,447,872",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
       "noOfEsts": "5"
@@ -205,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "DLHC",
       "name": "DLH Holdings Corp.",
-      "marketCap": "$52,319,856",
+      "marketCap": "$52,899,576",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.28)",
       "noOfEsts": "1"
@@ -216,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "CULP",
       "name": "Culp, Inc.",
-      "marketCap": "$45,847,168",
+      "marketCap": "$46,229,224",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"
@@ -227,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "SKIL",
       "name": "Skillsoft Corp.",
-      "marketCap": "$30,577,492",
+      "marketCap": "$30,486,488",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.11",
       "noOfEsts": "1"
