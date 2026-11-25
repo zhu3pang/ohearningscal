@@ -2,12 +2,23 @@
   "date": "2026-12-01",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BHP",
+      "name": "BHP Group Limited",
+      "marketCap": "$174,515,847,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "lastYearRptDt": "12/02/2025",
       "lastYearEPS": "$0.62",
       "time": "time-after-hours",
       "symbol": "MRVL",
       "name": "Marvell Technology, Inc.",
-      "marketCap": "$126,922,506,000",
+      "marketCap": "$115,373,736,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.79",
       "noOfEsts": "12"
@@ -18,7 +29,7 @@
       "time": "time-after-hours",
       "symbol": "OKTA",
       "name": "Okta, Inc.",
-      "marketCap": "$36,062,061,000",
+      "marketCap": "$34,635,522,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.43",
       "noOfEsts": "10"
@@ -29,7 +40,7 @@
       "time": "time-after-hours",
       "symbol": "NTAP",
       "name": "NetApp, Inc.",
-      "marketCap": "$33,713,358,800",
+      "marketCap": "$32,016,298,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$2.14",
       "noOfEsts": "8"
@@ -40,9 +51,9 @@
       "time": "time-pre-market",
       "symbol": "CPRT",
       "name": "Copart, Inc.",
-      "marketCap": "$29,292,073,000",
+      "marketCap": "$29,968,328,700",
       "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.41",
+      "epsForecast": "$0.40",
       "noOfEsts": "4"
     },
     {
@@ -51,7 +62,7 @@
       "time": "time-after-hours",
       "symbol": "TCOM",
       "name": "Trip.com Group Limited",
-      "marketCap": "$25,880,885,200",
+      "marketCap": "$25,647,894,500",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$1.07",
       "noOfEsts": "2"
@@ -62,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "MDB",
       "name": "MongoDB, Inc.",
-      "marketCap": "$25,189,163,000",
+      "marketCap": "$24,851,632,100",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.08",
       "noOfEsts": "9"
@@ -73,7 +84,7 @@
       "time": "time-after-hours",
       "symbol": "CRDO",
       "name": "Credo Technology Group Holding Ltd",
-      "marketCap": "$23,016,591,400",
+      "marketCap": "$20,009,361,400",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.03",
       "noOfEsts": "6"
@@ -84,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "HQY",
       "name": "HealthEquity, Inc.",
-      "marketCap": "$7,778,546,700",
+      "marketCap": "$7,906,755,100",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.96",
       "noOfEsts": "4"
@@ -95,7 +106,7 @@
       "time": "time-after-hours",
       "symbol": "GTLB",
       "name": "GitLab Inc.",
-      "marketCap": "$7,300,411,900",
+      "marketCap": "$7,490,335,700",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.09)",
       "noOfEsts": "7"
@@ -106,7 +117,7 @@
       "time": "time-pre-market",
       "symbol": "NIO",
       "name": "NIO Inc.",
-      "marketCap": "$6,439,564,300",
+      "marketCap": "$6,464,621,100",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.03)",
       "noOfEsts": "1"
@@ -117,7 +128,7 @@
       "time": "time-after-hours",
       "symbol": "BOX",
       "name": "Box, Inc.",
-      "marketCap": "$6,249,495,000",
+      "marketCap": "$6,300,259,300",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.09",
       "noOfEsts": "3"
@@ -128,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "NCNO",
       "name": "nCino, Inc.",
-      "marketCap": "$2,183,451,900",
+      "marketCap": "$2,236,320,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.16",
       "noOfEsts": "6"
@@ -139,7 +150,7 @@
       "time": "time-after-hours",
       "symbol": "ASAN",
       "name": "Asana, Inc.",
-      "marketCap": "$2,122,552,960",
+      "marketCap": "$2,154,608,900",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "($0.17)",
       "noOfEsts": "3"
@@ -150,10 +161,21 @@
       "time": "time-pre-market",
       "symbol": "VSTS",
       "name": "Vestis Corporation",
-      "marketCap": "$1,907,070,340",
+      "marketCap": "$1,904,427,140",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.17",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/04/2025",
+      "lastYearEPS": "$0.32",
+      "time": "time-not-supplied",
+      "symbol": "DRVN",
+      "name": "Driven Brands Holdings Inc.",
+      "marketCap": "$1,841,174,780",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.27",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -161,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "VLGEA",
       "name": "Village Super Market, Inc.",
-      "marketCap": "$602,025,280",
+      "marketCap": "$624,234,820",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
       "noOfEsts": "3"
@@ -172,7 +194,7 @@
       "time": "time-after-hours",
       "symbol": "OOMA",
       "name": "Ooma, Inc.",
-      "marketCap": "$492,108,000",
+      "marketCap": "$494,592,000",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "6"
@@ -183,10 +205,10 @@
       "time": "time-pre-market",
       "symbol": "CTRN",
       "name": "Citi Trends, Inc.",
-      "marketCap": "$345,503,296",
+      "marketCap": "$354,259,712",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/19/2025",
@@ -194,7 +216,7 @@
       "time": "time-after-hours",
       "symbol": "CRNC",
       "name": "Cerence Inc.",
-      "marketCap": "$298,519,680",
+      "marketCap": "$290,378,240",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "1"
@@ -205,10 +227,21 @@
       "time": "time-after-hours",
       "symbol": "RGCO",
       "name": "RGC Resources Inc.",
-      "marketCap": "$238,712,032",
+      "marketCap": "$232,147,712",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "11/11/2025",
+      "lastYearEPS": "($0.25)",
+      "time": "time-not-supplied",
+      "symbol": "ZENA",
+      "name": "ZenaTech, Inc.",
+      "marketCap": "$95,187,912",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.18)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -216,10 +249,54 @@
       "time": "time-not-supplied",
       "symbol": "HERE",
       "name": "Here Group Limited",
-      "marketCap": "$84,560,920",
+      "marketCap": "$83,516,952",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "8"
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.06",
+      "time": "time-not-supplied",
+      "symbol": "AFJK",
+      "name": "Aimei Health Technology Co., Ltd",
+      "marketCap": "$76,560,000",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.03",
+      "time": "time-pre-market",
+      "symbol": "AMBR",
+      "name": "Amber International Holding Limited",
+      "marketCap": "$62,259,376",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "11/11/2025",
+      "lastYearEPS": "$0.04",
+      "time": "time-not-supplied",
+      "symbol": "DAVA",
+      "name": "Endava plc",
+      "marketCap": "$54,327,604",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.03",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/04/2025",
+      "lastYearEPS": "($0.32)",
+      "time": "time-not-supplied",
+      "symbol": "EVTL",
+      "name": "Vertical Aerospace Ltd.",
+      "marketCap": "$44,648,148",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($0.29)",
+      "noOfEsts": "3"
     }
   ]
 }
